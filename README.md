@@ -2,10 +2,10 @@
 
 The goal of this repo is to reproduce dataset distillation [1] and enhance the method with different optimization priors.
 
-![Alt text](assets/without_prior.png.jpg?raw=true "Distillation without prior")
+![Distillation whithout prior](assets/without_prior.png?raw=true )
 
 
-![Alt text](assets/with_prior.png.jpg?raw=true "Distillation with sparsity prior")
+![Distillation with sparsity prior](assets/with_prior.png?raw=true )
 
 ## Report
 
